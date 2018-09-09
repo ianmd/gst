@@ -5,8 +5,8 @@
     <description>Your resource to start trading sensibly</description>
     <link>https://ianmd.github.io/gst//gst/</link>
     <atom:link href="https://ianmd.github.io/gst//gst/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 08 Sep 2018 23:08:11 -0700</pubDate>
-    <lastBuildDate>Sat, 08 Sep 2018 23:08:11 -0700</lastBuildDate>
+    <pubDate>Sat, 08 Sep 2018 23:15:10 -0700</pubDate>
+    <lastBuildDate>Sat, 08 Sep 2018 23:15:10 -0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -79,6 +79,35 @@
         
         
         <category>Basics</category>
+        
+      </item>
+    
+      <item>
+        <title>Post 3</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/gst/images/rocket.svg&quot; alt=&quot;rocket design&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.freepik.com/free-vector/rocket-launch_783586.htm&quot;&gt;Designed by Freepik&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.&lt;/p&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.&lt;/p&gt;
+
+&lt;p&gt;Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.&lt;/p&gt;
+
+&lt;p&gt;Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.&lt;/p&gt;
+
+&lt;p&gt;Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.&lt;/p&gt;
+
+&lt;p&gt;Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.&lt;/p&gt;
+
+&lt;p&gt;Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 May 2018 00:00:00 -0700</pubDate>
+        <link>https://ianmd.github.io/gst//gst/2018/05/01/Post-1/</link>
+        <guid isPermaLink="true">https://ianmd.github.io/gst//gst/2018/05/01/Post-1/</guid>
+        
+        
+        <category>Strategies</category>
         
       </item>
     
